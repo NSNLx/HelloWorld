@@ -4,4 +4,4 @@ if (liczba != null)
 {
     Console.WriteLine(liczba);
 }
-Console.Write(" liczba")
+Console.Write(" to jest liczba")
